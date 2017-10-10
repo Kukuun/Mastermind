@@ -1,5 +1,5 @@
 # Mastermind
-Made with: VS console application with C#.
+Made with: VS console application and C#.
 
 First select a combination for the second player to guess - press enter twice to confirm your combination.
 
