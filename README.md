@@ -1,5 +1,5 @@
 # Mastermind
-Mastermind made in a console application.
+Made with: VS console application.
 
 First select a combination for the second player to guess - press enter twice to confirm your combination.
 
